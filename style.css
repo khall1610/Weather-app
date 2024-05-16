@@ -1,0 +1,17 @@
+body {
+  background-color: #f9f7fe;
+  font-family: "Roboto";
+}
+
+main {
+  padding: 30px;
+}
+
+h1 {
+  color: blueviolet;
+  font-size: 45px;
+}
+
+p {
+  color: rgb(167, 167, 167);
+}
